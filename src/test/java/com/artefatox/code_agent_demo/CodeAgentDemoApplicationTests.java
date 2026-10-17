@@ -1,0 +1,13 @@
+package com.artefatox.code_agent_demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CodeAgentDemoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
